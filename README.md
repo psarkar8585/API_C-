@@ -15,3 +15,8 @@ Scope:
 
 Focus:
 - Full functionality of above functions with low latency
+
+
+--Implementation 
+
+create a tredingAPI.cpp file and write all needed libraries
